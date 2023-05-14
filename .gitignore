@@ -1,0 +1,8 @@
+/target
+todo.txt
+docs.gl
+website
+out.txt
+mocks
+.DS_Store
+*.json
